@@ -1,2 +1,2 @@
-# codingc-hallenges
+# coding-challenges
 Just for fun
